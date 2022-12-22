@@ -1,6 +1,3 @@
--<code><img src="C:\Users\Acer\Downloads\Agustin Hummel (4).png"></code>
-
-
 Hola ✌, Mi nombre es Agustin Hummel.😎
 
 - Ingrese al Bootcamp de Henry para ser Full Stack Developer, en poco tiempo aprendi cosas que nunca imagine que aprenderia y entendi asi que esto era lo que apasionaba. 
