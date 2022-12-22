@@ -1,4 +1,5 @@
-<img src="C:\Users\Acer\Downloads\Agustin Hummel (4).png">
+-<code><img src="C:\Users\Acer\Downloads\Agustin Hummel (4).png"></code>
+
 
 Hola ✌, Mi nombre es Agustin Hummel.😎
 
