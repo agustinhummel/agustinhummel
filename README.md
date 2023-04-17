@@ -3,6 +3,7 @@ Hello ✌, My name is Agustin Hummel 😎.
 - I entered Henry's Bootcamp to become a Full Stack Developer, in a short time I learned things that I never imagined I would learn and I understood that this was what I was passionate about. 
 - I created projects like PI-DOGS and PI-VIDEMOGAMES, individual projects. 
 - I also made a joint project with other colleagues, p-grupal, where I learned to work as a team. 
+- I have just developed a new project, Algodistinto.online, which is an E-commerce of clothing.
 - Today I finished Henry's bootcamp and I am still learning but with a base formed in different technologies that I was able to implement in individual and group projects. 
 - I learned technologies such as:  
 
